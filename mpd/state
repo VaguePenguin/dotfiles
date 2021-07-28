@@ -1,0 +1,34 @@
+sw_volume: 100
+audio_device_state:1:ALSA sound card
+audio_device_state:1:E Stream
+state: pause
+current: 7
+time: 41.423000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:All Eyes On Me.mp3
+1:Bill Withers - Ain't No Sunshine.mp3
+2:Content.mp3
+3:Crazy.mp3
+4:Equus.mp3
+5:Kelsey Wild - Fall Down.mp3
+6:Kelsey Wild - Meaningless.mp3
+7:Kelsey Wild - What You Do To Me.mp3
+8:Kelsey Wild Let Me Go.mp3
+9:Mr. Jones.mp3
+10:Ocean Eyes.mp3
+11:Round Here.mp3
+12:Sting If I Ever Lose My Faith In You.mp3
+13:That's What You Get.mp3
+14:Wishing Well.mp3
+15:I Made A Promise.mp3
+16:Ghost Song.mp3
+17:Salt.mp3
+18:The War.mp3
+playlist_end

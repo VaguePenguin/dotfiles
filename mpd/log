@@ -1,0 +1,13 @@
+Jul 23 16:04 : exception: Failed to open '/home/e/.config/mpd/state': No such file or directory
+Jul 23 16:43 : exception: bind to '0.0.0.0:6601' failed (continuing anyway, because binding to '[::]:6601' succeeded): Failed to bind socket: Address already in use
+Jul 23 16:44 : exception: bind to '0.0.0.0:6601' failed (continuing anyway, because binding to '[::]:6601' succeeded): Failed to bind socket: Address already in use
+Jul 24 00:21 : exception: bind to '0.0.0.0:6601' failed (continuing anyway, because binding to '[::]:6601' succeeded): Failed to bind socket: Address already in use
+Jul 24 12:48 : exception: bind to '0.0.0.0:6601' failed (continuing anyway, because binding to '[::]:6601' succeeded): Failed to bind socket: Address already in use
+Jul 24 12:52 : exception: bind to '0.0.0.0:36601' failed (continuing anyway, because binding to '[::]:36601' succeeded): Failed to bind socket: Address already in use
+Jul 24 12:53 : exception: bind to '0.0.0.0:36601' failed (continuing anyway, because binding to '[::]:36601' succeeded): Failed to bind socket: Address already in use
+Jul 24 15:42 : exception: bind to '0.0.0.0:36601' failed (continuing anyway, because binding to '[::]:36601' succeeded): Failed to bind socket: Address already in use
+Jul 27 12:54 : exception: bind to '0.0.0.0:36601' failed (continuing anyway, because binding to '[::]:36601' succeeded): Failed to bind socket: Address already in use
+Jul 27 13:01 : exception: bind to '0.0.0.0:36601' failed (continuing anyway, because binding to '[::]:36601' succeeded): Failed to bind socket: Address already in use
+Jul 27 13:13 : exception: bind to '0.0.0.0:36601' failed (continuing anyway, because binding to '[::]:36601' succeeded): Failed to bind socket: Address already in use
+Jul 27 13:23 : exception: bind to '0.0.0.0:36601' failed (continuing anyway, because binding to '[::]:36601' succeeded): Failed to bind socket: Address already in use
+Jul 27 13:32 : exception: bind to '0.0.0.0:36601' failed (continuing anyway, because binding to '[::]:36601' succeeded): Failed to bind socket: Address already in use

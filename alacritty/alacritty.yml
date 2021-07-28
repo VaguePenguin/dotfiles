@@ -1,0 +1,18 @@
+window:
+  padding:
+    x: 10
+    y: 10
+colors:
+  primary:
+    background: '#1d1f21'
+    foreground: '#4b8f72'
+shell:
+  program: /bin/zsh
+  args:
+    - --login
+font:
+  normal:
+    family: SF Mono
+    style: Regular
+
+  size: 9
