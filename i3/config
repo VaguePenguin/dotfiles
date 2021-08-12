@@ -13,7 +13,8 @@ set $mod Mod4
 
 exec_always --no-startup-id picom
 exec_always --no-startup-id feh --bg-scale /home/e/Pictures/backgrounds/forest_1.jpg
-exec_always --no-startup-id bash /home/e/.config/polybar/launch.sh
+exec_always --no-startup-id zsh /home/e/.config/polybar/launch.sh
+exec_always --no-startup-id autorandr --change
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.

@@ -4,7 +4,7 @@ PPATH=/home/e/.config/polybar
 
 cat "$PPATH/shared/config.default" > "$PPATH/config.pre"
 
-for m in $(polybar --list-monitors | cut -d":" -f1); do
+for m in $(xrandr --query | grep " connected" | cut -d " " -f1); do
 	for bar in $(ls "$PPATH/bars"); do
 		echo -en "\n" >> "$PPATH/config.pre"
 		cat "$PPATH/bars/$bar" | sed "s/#monitor/$m/g" | sed -E "s+(\[bar/.*-)+\1$m+" >> "$PPATH/config.pre"
