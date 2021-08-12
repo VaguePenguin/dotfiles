@@ -2,8 +2,8 @@ sw_volume: 100
 audio_device_state:1:ALSA sound card
 audio_device_state:1:E Stream
 state: play
-current: 15
-time: 118.715000
+current: 3
+time: 23.335000
 random: 0
 repeat: 0
 single: 0

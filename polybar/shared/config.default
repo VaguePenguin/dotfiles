@@ -1,0 +1,25 @@
+[colors]
+background     = #1d1f21
+background-alt = #313f31
+foreground     = #4b8f72
+foreground-alt = #555
+primary        = #ffb52a
+secondary      = #424242
+alert          = #bd2c40
+warning        = #632222
+
+[std]
+offset-y = 2.5%
+
+line-size  = 3
+line-color = #f00
+
+border-size  = 0
+border-color = #000
+
+[fonts]
+efontcons = efontcons:fontformat=truetype:size=20:antialias=true;5
+sf        = SF Mono:style=Regular:size=12;3
+terminess = TerminessTTF Nerd Font Mono:fontformat=truetype:size=20:antialias=true;5
+
+;Dynamically Generated Stuff Below
