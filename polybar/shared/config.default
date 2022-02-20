@@ -9,7 +9,7 @@ alert          = #bd2c40
 warning        = #632222
 
 [std]
-offset-y = 2.5%
+offset-y = 1%
 
 line-size  = 3
 line-color = #f00
@@ -18,8 +18,8 @@ border-size  = 0
 border-color = #000
 
 [fonts]
-efontcons = efontcons:fontformat=truetype:size=20:antialias=true;5
-sf        = SF Mono:style=Regular:size=12;3
+efontcons = efontcons:fontformat=truetype:size=24:antialias=true;5
+sf        = SF Mono:style=Regular:size=16;3
 terminess = TerminessTTF Nerd Font Mono:fontformat=truetype:size=20:antialias=true;5
 
 ;Dynamically Generated Stuff Below

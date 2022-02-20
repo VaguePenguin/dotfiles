@@ -14,9 +14,9 @@ cat "$PPATH/config.live" | sed 's/<<mpd-password>>/castle/g' > "$PPATH/config.li
 
 # Launch on all monitors
 mons=$(xrandr --query | grep " connected" | tr -s " " |  cut -d " " -f1)
-echo $mons > /home/e/tst/p-log
+# echo $mons > /home/e/tst/p-log
 for mon in $(xrandr --query | grep " connected" | cut -d " " -f1); do
-	echo $mon >> /home/e/tst/p-log
+	# echo $mon >> /home/e/tst/p-log
 	polybar page-$mon        --config="$PPATH/config.live"  &
 	polybar music-$mon       --config="$PPATH/config.live.p" &
 	polybar songname-$mon    --config="$PPATH/config.live" &

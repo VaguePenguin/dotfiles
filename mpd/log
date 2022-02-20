@@ -15,3 +15,64 @@ Jul 31 19:14 : exception: bind to '0.0.0.0:36601' failed (continuing anyway, bec
 Jul 31 19:14 : exception: bind to '0.0.0.0:36601' failed (continuing anyway, because binding to '[::]:36601' succeeded): Failed to bind socket: Address already in use
 Aug 11 17:30 : exception: bind to '0.0.0.0:36601' failed (continuing anyway, because binding to '[::]:36601' succeeded): Failed to bind socket: Address already in use
 Aug 11 22:28 : exception: bind to '0.0.0.0:36601' failed (continuing anyway, because binding to '[::]:36601' succeeded): Failed to bind socket: Address already in use
+Aug 22 10:34 : exception: Failed to decode /home/e/Music/Mr. Jones.mp3; Failed to open '/home/e/Music/Mr. Jones.mp3': No such file or directory
+Aug 22 10:34 : exception: bind to '0.0.0.0:36601' failed (continuing anyway, because binding to '[::]:36601' succeeded): Failed to bind socket: Address already in use
+Aug 22 10:39 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Aug 22 13:36 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Aug 22 13:38 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Aug 22 14:03 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Aug 23 15:25 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Aug 23 16:00 : exception: Failed to decode /home/e/Music/Mr. Jones.mp3; Failed to open '/home/e/Music/Mr. Jones.mp3': No such file or directory
+Aug 23 16:00 : exception: Failed to decode /home/e/Music/Ocean Eyes.mp3; Failed to open '/home/e/Music/Ocean Eyes.mp3': No such file or directory
+Aug 23 16:00 : exception: Failed to decode /home/e/Music/Round Here.mp3; Failed to open '/home/e/Music/Round Here.mp3': No such file or directory
+Aug 23 16:00 : exception: Failed to decode /home/e/Music/Sting If I Ever Lose My Faith In You.mp3; Failed to open '/home/e/Music/Sting If I Ever Lose My Faith In You.mp3': No such file or directory
+Aug 23 16:00 : exception: Failed to decode /home/e/Music/That's What You Get.mp3; Failed to open '/home/e/Music/That's What You Get.mp3': No such file or directory
+Aug 23 16:00 : exception: Failed to decode /home/e/Music/Wishing Well.mp3; Failed to open '/home/e/Music/Wishing Well.mp3': No such file or directory
+Aug 23 16:00 : exception: Failed to decode /home/e/Music/I Made A Promise.mp3; Failed to open '/home/e/Music/I Made A Promise.mp3': No such file or directory
+Aug 23 16:00 : exception: Failed to decode /home/e/Music/Ghost Song.mp3; Failed to open '/home/e/Music/Ghost Song.mp3': No such file or directory
+Aug 23 16:00 : exception: Failed to decode /home/e/Music/Salt.mp3; Failed to open '/home/e/Music/Salt.mp3': No such file or directory
+Aug 23 16:00 : exception: Failed to decode /home/e/Music/The War.mp3; Failed to open '/home/e/Music/The War.mp3': No such file or directory
+Aug 23 16:26 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Aug 23 17:41 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Aug 23 21:22 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Aug 29 16:07 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Aug 29 16:21 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Aug 29 16:53 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Aug 29 17:40 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Aug 29 17:44 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Aug 29 18:40 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Aug 29 18:58 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Aug 30 17:49 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Sep 04 15:24 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Sep 07 19:26 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Sep 07 19:33 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Sep 08 12:36 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Sep 09 13:08 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Sep 10 22:36 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Sep 13 13:01 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Sep 13 15:41 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Sep 14 16:20 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Sep 14 19:21 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Oct 03 16:25 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Oct 03 17:04 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Oct 04 09:38 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Oct 13 22:08 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Nov 06 18:11 : exception: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Nov 06 19:37 : mixer: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Nov 08 17:37 : mixer: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Nov 13 17:23 : mixer: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Nov 14 15:25 : mixer: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Nov 16 22:00 : mixer: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Nov 24 21:18 : mixer: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Nov 24 21:51 : mixer: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Nov 25 15:15 : mixer: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Nov 28 12:21 : mixer: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Nov 30 22:53 : mixer: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Dec 04 14:42 : mixer: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Dec 04 14:49 : mixer: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Dec 27 23:12 : mixer: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Dec 27 23:17 : mixer: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Jan 07 21:52 : mixer: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Jan 10 15:38 : mixer: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Jan 16 10:41 : mixer: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM
+Jan 26 16:11 : mixer: Failed to read mixer for 'ALSA sound card': no such mixer control: PCM

@@ -11,7 +11,7 @@
 
 set $mod Mod4
 
-exec_always --no-startup-id picom
+exec_always --no-startup-id picom -b
 exec_always --no-startup-id feh --bg-scale /home/e/Pictures/backgrounds/forest_1.jpg
 exec_always --no-startup-id zsh /home/e/.config/polybar/launch.sh
 exec_always --no-startup-id autorandr --change
@@ -45,14 +45,26 @@ bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOU
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 
+# Run app launcher
+bindsym $mod+f exec dmenu_run
+
 # start a terminal
 bindsym $mod+Return exec alacritty
 
-# vscode
-bindsym $mod+F3 exec code
-
-# ff
+# Firefox
 bindsym $mod+F2 exec firefox
+
+# Libre Office
+bindsym $mod+F3 exec libreoffice
+
+# Android Studio
+bindsym $mod+F4 exec android-studio
+
+# Blender
+bindsym $mod+F5 exec CYCLES_OPENCL_SPLIT_KERNEL_TEST=1 blender
+
+# Unreal Engine
+bindsym $mod+F6 exec /opt/unreal-engine/Engine/Binaries/Linux/UE4Editor
 
 # summon rofi
 bindsym $mod+Shift+d exec rofi -show run
@@ -200,6 +212,9 @@ bindsym $mod+r mode "resize"
 
 # Boot Music
 exec_always mpd
+
+# Set SSH agent
+exec_always ~/.config/ssh/boot.sh
 
 #GAPS
 
