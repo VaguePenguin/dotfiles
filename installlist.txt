@@ -1,0 +1,11 @@
+flameshot
+jack
+pulse
+neofetch
+blender
+unreal engine
+openssh
+ephoto
+lightdm
+libre office
+yay
